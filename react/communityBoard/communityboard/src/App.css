@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+
+ body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  text-align: center;
+  background-color: rgb(255, 202, 255);
+}
+
+.bg_img_cont{
+  /* height: 100%; */
+  width: 100%;
+  background-image: url('62center.png');
+  color: rgb(236, 235, 235);
+  padding: 10px;
+}

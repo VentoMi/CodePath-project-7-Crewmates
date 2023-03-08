@@ -1,0 +1,66 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: orange;
+  background-color: white;
+}
+
+
+ body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  text-align: center;
+  min-width: 320px;
+  min-height: 100vh;
+  text-align: center;
+  background-image: url(pink-bg.jpg);
+  color: orange;
+  justify-content: center;
+}
+
+.card {
+    background-color: rgb(103, 28, 132);
+    width: 400px;
+    height: 400px;
+    /* align-self: center; */
+    place-content: center;
+    display: flex;
+    margin: auto;
+    border: 5px solid;
+    border-color: rgb(52, 44, 104); 
+    align-items: center;
+}
+
+.cardContainer {
+  background-color: orange;
+  /* place-content: center; */
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* min-height: 100vh; */
+  margin: auto;
+  border: 5px solid;
+  border-color: rgb(174, 39, 163);
+  padding: 10%;
+}
+
+.appContainer {
+  place-content: center;
+  text-align: center;
+  justify-content: center;
+}
+
+button {
+  width: 80px;
+  height: 30px;
+  margin: 5px;
+}
+
+#img {
+  display: flex;
+  width: 100%;
+}

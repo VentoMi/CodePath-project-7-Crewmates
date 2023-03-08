@@ -1,0 +1,27 @@
+.Event {
+  background-color: #FFFFFF;
+  padding: 1%;
+  margin: 1%;
+  width: 300px;
+  text-align: center;
+  border-radius: 7px;
+}
+
+.Board {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#button {
+  font-family:Arial, Helvetica, sans-serif;
+  border: none;
+  padding: 5%;
+  margin: 1%;
+  border-radius: 7px;
+  background-color:  rgb(255, 202, 255);
+}
+
+#image {
+  width: 100%;
+}

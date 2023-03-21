@@ -3,8 +3,7 @@ import './App.css';
 import BaristaForm from './Components/baristaForm';
 
 function App() {
-  const [count, setCount] = useState(0)
-
+ 
   return (
     <div>
       <div className='title-container'>

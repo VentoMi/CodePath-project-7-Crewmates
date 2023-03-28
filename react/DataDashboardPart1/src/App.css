@@ -1,0 +1,27 @@
+.tableContainer {
+  width: 500;
+}
+
+.mainBoard {
+  height: 500;
+}
+
+.mainContainer {
+  background-color: antiquewhite;
+  align-items: center;
+  justify-content: center;
+}
+.mainHeaiding {
+  justify-content: center;
+}
+
+body {
+  background-color: antiquewhite;
+  ;
+
+}
+
+h1 {
+  align-self: center;
+  text-align: center;
+}

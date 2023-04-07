@@ -33,7 +33,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF Image Link:
 https://imgur.com/a/XXfsSZT
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap
 <!-- Recommended tools:

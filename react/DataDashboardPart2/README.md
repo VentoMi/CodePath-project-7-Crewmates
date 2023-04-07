@@ -29,10 +29,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/5cBcIw9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/XXfsSZT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF Image Link:
-https://imgur.com/a/5cBcIw9
+https://imgur.com/a/XXfsSZT
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECap
